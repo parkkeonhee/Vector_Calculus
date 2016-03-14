@@ -1,8 +1,9 @@
 /** 
- * Keon Hee Park
+ * Author: Keon Hee Park
  * Description:
  * Java program that determines the position of a given line on the plane, 
  * then solves the projection of the line onto plane or finds the distance between the line and plane
+ * Created: July 16, 2015
  */
 
 import java.util.*;
